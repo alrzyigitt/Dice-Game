@@ -1,0 +1,38 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+.dice {
+  text-align: center;
+  display: inline-block;
+}
+
+body {
+  background-color: #393e46;
+}
+
+h1 {
+  margin: 30px;
+  font-family: "Playwrite IT Moderna", serif;
+  text-shadow: 5px 0 #232931;
+  font-size: 6rem;
+  color: #524ecc;
+}
+
+p {
+  font-size: 2rem;
+  color: #524ecc;
+  font-family: "Playwrite IT Moderna", serif;
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+  margin-top: 5%;
+  color: #eeeeee;
+  text-align: center;
+  font-family: "Playwrite IT Moderna", serif;
+}
